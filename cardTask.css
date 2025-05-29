@@ -1,0 +1,64 @@
+.header{
+    background-color: white;
+    display: flex;
+    flex-direction: row;
+    gap:10px;
+}
+
+.card1{
+    background-color: rgb(26, 202, 199);
+    width:180px;
+    height:150px;
+    
+}
+.titleHeading{
+    text-align: left;
+    padding-left: 20px;
+    color:white;
+}
+.footer1{
+    color:rgb(255, 255, 255);
+    background-color:rgb(26, 202, 199) ;
+    width:180px;
+    height:110px;
+}
+.footerHeading{
+    text-align: left;
+    padding-left: 20px;
+    padding-top: 50px;
+}
+.card2{
+    background-color: rgb(231, 89, 144);
+    width:180px;
+    height:170px;
+}
+.card3{
+    background-color: white;
+    width:180px;
+    height:170px;
+}
+.card4{
+    background-color: rgb(44, 49, 49);
+    width:180px;
+    height:170px;
+}
+.footer2{
+    color:rgb(255, 255, 255);
+    background-color:rgb(231, 89, 144) ;
+    width:180px;
+    height:110px;
+}
+.footer3{
+    color:rgb(0, 0, 0);
+    background-color:white;
+    width:180px;
+    height:110px;
+}
+.footer4{
+    color:rgb(255, 255, 255);
+    background-color: rgb(44, 49, 49);
+    width:180px;
+    height:110px;
+}
+
+

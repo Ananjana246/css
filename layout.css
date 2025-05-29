@@ -1,0 +1,39 @@
+.body{
+    font-size: vw;
+}
+
+.header{
+    width: 600px;;
+    height:100px;
+    background-color: #70b5d1f3;
+    text-align: center;
+    font-size:80px;
+    color:white;
+}
+.content{
+    display: flex;
+    flex-direction: row;
+}
+.link{
+    width:200px;
+    height:400px;
+    padding:10px;
+}
+.home{
+    width:380px;
+    background-color: rgb(230, 228, 228);
+}
+.hometitle{
+    font-style:normal;
+    padding-top: 50px;
+    padding-left: 30px;
+    
+}
+.footer{
+    width:600px;
+    height: 100px;
+    background-color: #70b5d1f3;
+    text-align: center;
+    font-size:40px;
+    color:white;
+}

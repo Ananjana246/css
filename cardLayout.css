@@ -44,9 +44,9 @@ height:200px;
     border-radius: 20px;
     }
 .button:hover{
-    background-color: rgb(97, 214, 175);
+    background-color: rgb(60, 39, 134);
 }
 .button1:hover{
-    background-color: rgb(251, 4, 4);
+    background-color: tylergb(216, 67, 67);
 }
 
